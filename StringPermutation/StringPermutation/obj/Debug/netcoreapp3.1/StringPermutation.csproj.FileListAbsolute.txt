@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.exe
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.deps.json
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.runtimeconfig.json
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.dll
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.pdb
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.dll
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.pdb
+C:\Users\INDIA\source\repos\StringPermutation\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.genruntimeconfig.cache
