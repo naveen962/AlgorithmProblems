@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\bin\Debug\netcoreapp3.1\PrimeNumberExtend.exe
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\bin\Debug\netcoreapp3.1\PrimeNumberExtend.deps.json
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\bin\Debug\netcoreapp3.1\PrimeNumberExtend.runtimeconfig.json
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\bin\Debug\netcoreapp3.1\PrimeNumberExtend.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\bin\Debug\netcoreapp3.1\PrimeNumberExtend.dll
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\bin\Debug\netcoreapp3.1\PrimeNumberExtend.pdb
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.dll
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.pdb
+C:\Users\INDIA\source\repos\PrimeNumberExtend\PrimeNumberExtend\obj\Debug\netcoreapp3.1\PrimeNumberExtend.genruntimeconfig.cache
