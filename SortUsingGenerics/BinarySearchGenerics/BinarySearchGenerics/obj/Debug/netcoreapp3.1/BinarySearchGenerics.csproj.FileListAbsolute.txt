@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\bin\Debug\netcoreapp3.1\BinarySearchGenerics.exe
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\bin\Debug\netcoreapp3.1\BinarySearchGenerics.deps.json
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\bin\Debug\netcoreapp3.1\BinarySearchGenerics.runtimeconfig.json
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\bin\Debug\netcoreapp3.1\BinarySearchGenerics.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\bin\Debug\netcoreapp3.1\BinarySearchGenerics.dll
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\bin\Debug\netcoreapp3.1\BinarySearchGenerics.pdb
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.dll
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.pdb
+C:\Users\INDIA\source\repos\BinarySearchGenerics\BinarySearchGenerics\obj\Debug\netcoreapp3.1\BinarySearchGenerics.genruntimeconfig.cache

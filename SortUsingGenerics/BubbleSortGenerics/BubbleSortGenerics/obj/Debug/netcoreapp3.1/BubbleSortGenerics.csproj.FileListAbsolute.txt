@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\bin\Debug\netcoreapp3.1\BubbleSortGenerics.exe
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\bin\Debug\netcoreapp3.1\BubbleSortGenerics.deps.json
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\bin\Debug\netcoreapp3.1\BubbleSortGenerics.runtimeconfig.json
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\bin\Debug\netcoreapp3.1\BubbleSortGenerics.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\bin\Debug\netcoreapp3.1\BubbleSortGenerics.dll
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\bin\Debug\netcoreapp3.1\BubbleSortGenerics.pdb
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.dll
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.pdb
+C:\Users\INDIA\source\repos\BubbleSortGenerics\BubbleSortGenerics\obj\Debug\netcoreapp3.1\BubbleSortGenerics.genruntimeconfig.cache

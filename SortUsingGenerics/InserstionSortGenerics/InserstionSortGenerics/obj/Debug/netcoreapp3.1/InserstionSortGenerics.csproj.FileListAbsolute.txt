@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\bin\Debug\netcoreapp3.1\InserstionSortGenerics.exe
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\bin\Debug\netcoreapp3.1\InserstionSortGenerics.deps.json
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\bin\Debug\netcoreapp3.1\InserstionSortGenerics.runtimeconfig.json
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\bin\Debug\netcoreapp3.1\InserstionSortGenerics.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\bin\Debug\netcoreapp3.1\InserstionSortGenerics.dll
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\bin\Debug\netcoreapp3.1\InserstionSortGenerics.pdb
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.dll
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.pdb
+C:\Users\INDIA\source\repos\InserstionSortGenerics\InserstionSortGenerics\obj\Debug\netcoreapp3.1\InserstionSortGenerics.genruntimeconfig.cache
